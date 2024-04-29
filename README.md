@@ -27,6 +27,10 @@ Daily News is a web application that fetches news data from an API and displays 
 - Browse news articles by clicking on different categories.
 - Use the search bar to find specific articles by keywords.
 
+## Screenshots
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
